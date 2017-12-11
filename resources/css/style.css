@@ -21,7 +21,11 @@ h2 {
   font-weight: 300;
 }
 
-#text {
+.text {
   font-size: 21px;
   color: gray;
+}
+
+#copy{
+  text-align: right;
 }
